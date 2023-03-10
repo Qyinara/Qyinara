@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Rent a Car web app with React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Angular**
 
